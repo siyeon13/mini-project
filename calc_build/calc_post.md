@@ -1,4 +1,5 @@
-# 리액트 계산기 프로젝트 빌드
+## 정적 사이트 배포(Static Site Deployment)
+ 리액트 계산기 프로젝트 빌드
 
 ## package.json 수정
 
