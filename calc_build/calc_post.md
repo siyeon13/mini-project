@@ -14,6 +14,11 @@
   "scripts": { ... }
 }
 ```
+
+## BrowserRouter 설정
+<BrowserRouter basename="/mini-project/siyeon"> 추가
+
+
 - hwangsiyeon@hwangsiyeon-ui-MacBookPro react-calc % npm run build
 - build 폴더 생성
 - build 폴더 안에 index.html src 주소를 수정 된 거 확인 : src="/mini-project/siyeon/static/js/main.861eb5e9.js"
